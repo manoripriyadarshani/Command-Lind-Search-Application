@@ -24,7 +24,7 @@ when the application starts it will ask your preferance for continue or exit
 * After you got result If you want to perform again press enter then It will again direct you to the step search or see option  
 
 * If you want to exit the application at any time type 'quit' and press enter
-* system is not case sensitive. You are free to enter inputs in capital , simple or mixed letters 
+* system is not case sensitive. You are free to enter inputs in capital , simple or mixed letters.But not for searching values. your searching value need to case sensitive 
 * You can search for empty values as well. At that time, when the application ask for the value simply press enter
 * If you press enter at the points which you should enter some input, system will warn you to enter input and show instructions again 
 * If you enter any unrelavant input application will tell you that you have entered an invalid input and exit 
